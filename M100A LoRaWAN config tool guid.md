@@ -2,7 +2,7 @@
 ---
 ##基本的界面如下图
 
-![Alt text](./内网通截图20160819112704.png)
+![Alt text](http://ww2.sinaimg.cn/large/6c1ebe8egw1f9tszm33pwj20hl0j3djd.jpg)
 
 ##功能A区域
 - config 配置
