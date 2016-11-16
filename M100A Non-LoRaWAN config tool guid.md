@@ -6,7 +6,7 @@
 
 ##基本的界面如下图
 
-![Alt text](./内网通截图20160926164537.png)
+![Alt text](http://ww3.sinaimg.cn/large/6c1ebe8egw1f9tsst777tj20hk0g6whk.jpg)
 
 
 
